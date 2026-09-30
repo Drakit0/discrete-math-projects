@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.VSCodeCounter/
+.vscode/
+.idea/
+venv/
+.venv/
+
+# Office temporary files
+~$*
+~WRL*.tmp
+
+# Files the programs create while running
+02-cryptochat/Usuarios/
+02-cryptochat/Mensajes/
+01-number-theory-toolkit/*_out.txt
+01-number-theory-toolkit/*_obtained.txt
+
+# Large dataset that has to be downloaded, see 03-madrid-gps/README.md
+03-madrid-gps/direcciones.csv
